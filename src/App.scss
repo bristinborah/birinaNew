@@ -1,0 +1,17 @@
+$color-main: #fb0206;
+$black: #272727;
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  /* Add more styles as needed */
+
+  padding: 20px; /* Add padding around the content inside the container */
+}
