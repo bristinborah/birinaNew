@@ -1,6 +1,6 @@
 
 import './App.scss'
-import Factory from './sections/factory/factory';
+import Factory from './sections/factory/Factory';
 import Landing from './sections/landing/Landing';
 import LandingGamosa from './sections/landingGamosa/LandingGamosa';
 import AnimatedMapComponent from './sections/Location/Map';
